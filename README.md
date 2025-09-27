@@ -5,6 +5,7 @@
 ### My Certifications:
 
 [IBM Data Science Professional Certificate: ](https://coursera.org/share/d4001bf3e42adb54a73dcb3c1724c451)
+
 <img width="651" height="500" alt="image" src="https://github.com/user-attachments/assets/dbd35d74-5da2-42b3-b7f1-c2ddfbe80aed" />
 
 
