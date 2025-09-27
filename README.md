@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Mikela Loizou 👋
 
-<!--
-**MikelaMiki/MikelaMiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Certifications:
+
+[IBM Data Science Professional Certificate: ](https://coursera.org/share/d4001bf3e42adb54a73dcb3c1724c451)
+<img width="1054" height="810" alt="image" src="https://github.com/user-attachments/assets/dbd35d74-5da2-42b3-b7f1-c2ddfbe80aed" />
+
+
+[Power BI Basics: Requirements to Visualizations
+](https://coursera.org/share/1d896da4463e31d24c75882b9e514def)
+<img width="1449" height="987" alt="image" src="https://github.com/user-attachments/assets/a470140d-5d57-49b4-bbdf-8ef35e234fab" />
+
