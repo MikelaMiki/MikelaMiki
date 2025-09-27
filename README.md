@@ -11,5 +11,6 @@
 
 [Power BI Basics: Requirements to Visualizations
 ](https://coursera.org/share/1d896da4463e31d24c75882b9e514def)
+
 <img width="294" height="200" alt="image" src="https://github.com/user-attachments/assets/a470140d-5d57-49b4-bbdf-8ef35e234fab" />
 
