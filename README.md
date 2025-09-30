@@ -8,10 +8,10 @@ I hold a Bachelor’s degree in Mathematics and Applied Mathematics from the Uni
 
 CV: [English](https://github.com/MikelaMiki/MikelaMiki/raw/main/CV_eng.pdf) & [Greek](https://github.com/MikelaMiki/MikelaMiki/raw/main/CV_gr.pdf)
 
-🎓 B.Sc. in Mathematics and Applied Mathematics, [University of Crete], [2025]
+### 🎓 B.Sc. in Mathematics and Applied Mathematics, [University of Crete], [2025]
 
 
-## 🌍 Languages
+### 🌍 Languages
 
 - 🇬🇷 **Greek** — Native  
 - 🇩🇪 **German** — Native (Bilingual)  
