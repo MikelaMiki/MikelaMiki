@@ -5,6 +5,7 @@ Welcome to my GitHub profile. I hold a Bachelor’s degree in Applied Mathematic
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mikela-daphne-loizou-manske)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mikelaloisou@gmail.com)
 
+CV: [English](https://github.com/MikelaMiki/MikelaMiki/blob/main/CV_eng.pdf) & [Greek](https://github.com/MikelaMiki/MikelaMiki/blob/main/CV_gr.pdf)
 
 
 
