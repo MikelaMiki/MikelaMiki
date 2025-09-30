@@ -1,13 +1,21 @@
 ## Hi there, I'm Mikela Loizou 👋
 
 Welcome to my GitHub profile!
-I hold a Bachelor’s degree in Applied Mathematics from the University of Crete, where I gained an in-depth knowledge of mathematics along with practical experience in data analysis, statistics, and programming. My thesis on gender bias in clinical studies gave me hands-on experience with statistical analysis and R, while certifications such as the IBM Data Science Professional Certificate and Power BI Basics: Requirements to Visualizations (University of Washington, Coursera) strengthened my skills in Python, SQL, machine learning, and data visualization.  I enjoy working with data to solve problems and make decisions, and I bring an analytical mindset, attention to detail and strong organizational skills with me. I'm currently actively looking for an entry-level job in data science related roles. 
+I hold a Bachelor’s degree in Mathematics and Applied Mathematics from the University of Crete, where I gained an in-depth knowledge of mathematics along with practical experience in data analysis, statistics, and programming. My thesis on gender bias in clinical studies gave me hands-on experience with statistical analysis and R, while certifications such as the IBM Data Science Professional Certificate and Power BI Basics: Requirements to Visualizations (University of Washington, Coursera) strengthened my skills in Python, SQL, machine learning, and data visualization.  I enjoy working with data to solve problems and make decisions, and I bring an analytical mindset, attention to detail and strong organizational skills with me. I'm currently actively looking for an entry-level job in data science related roles. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mikela-daphne-loizou-manske)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mikelaloisou@gmail.com)
 
 CV: [English](https://github.com/MikelaMiki/MikelaMiki/raw/main/CV_eng.pdf) & [Greek](https://github.com/MikelaMiki/MikelaMiki/raw/main/CV_gr.pdf)
 
+🎓 B.Sc. in Mathematics and Applied Mathematics, [University of Crete], [2025]
+
+
+## 🌍 Languages
+
+- 🇬🇷 **Greek** — Native  
+- 🇩🇪 **German** — Native (Bilingual)  
+- 🇬🇧 **English** — C2 (Full Professional Proficiency)
 
 
 ### My Certifications:
